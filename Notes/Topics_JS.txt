@@ -1,0 +1,171 @@
+Basics
+============
+basic syntax{
+    Variables
+    Data types
+    Operators
+    Fucntions
+    Scope
+}
+Control Structure{
+    if else
+    switch
+    for loop
+    while loop
+    try-catch
+}
+Arrays{
+    Array Methods
+    Iteration
+    map()
+    filter()
+    reduce()
+} and Iteration
+
+Asyn JS{
+    Callbacks
+    Promises
+    async/wait
+    Fetch API
+    AJAX
+    Handling asyn data with callbacks and promises
+}
+
+Objects {
+    Object Literals
+    Methods
+    this keyword
+    Prototypes
+    Inheritance
+}
+
+and classes
+Functions
+
+
+DOM Manipulation
+=================
+Selecting and modifying Html elements
+Event handling 
+DOM traversal and Manipulation
+{
+    Selectors
+    Events
+    Event Listerners
+    Inner HTML
+    addEventListerner
+}
+
+ES6+ features
+===============
+Arrow Func
+Let & const
+template literals
+Promises
+Temple literals
+Destructuring
+Spread/rest operators
+Classes and Inheritance
+Enhanced Object Literals
+
+Fucntional Programming
+=======================
+Concepts like map,reduce,filter
+working with inner-order fucntions
+Immutable data structures
+
+
+Advanced JS concepts
+====================
+Advanced Topics{
+    Closeures
+    this context 
+    Event Loop
+    Hoisitng
+    async/wait
+}
+closeures
+Callback fucntions
+Promises and async/wait
+Modules and Module system(CommonJS,ES6 modules)
+
+Modules{
+    Export
+    Import
+    Defualt Export
+    Named Export
+    Module Bundler
+}
+
+
+Error Handlining
+=================
+try-catch blocks
+custom error handling
+
+Web APIs
+==========
+Local storage, session storage 
+Web wokers fro multi-threading
+Geolocation API, Notifications API
+
+
+
+
+
+
+Important keywords
+=================
+lexical scope
+Global scope
+Fucntion defination
+Closure
+prottype chain
+getter/setter
+obj instance
+weakmap 
+single thread
+callback funciton
+callback hell
+promise
+then/catch
+async function
+DOM object
+
+element
+mutated directly 
+data binding 
+module bundler
+network water 
+dynamic imports
+cross platform
+Typescript /Eslint
+shallow copy 
+
+
+
+Harder Concepts
+================
+Regex : (keeps state) try to avoid it as much as possible
+buffer 
+iterating over maps :  for loops k -> v // for each ---- v -> key
+bitwise operation to a number (network protocol)
+
+
+slow
+memory inefficient
+weird ass api 
+
+----------------------------------------------------------
+
+
+
+
+
+
+
+
+
+
+
+

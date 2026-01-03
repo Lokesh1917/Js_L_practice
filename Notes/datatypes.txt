@@ -1,0 +1,26 @@
+Arithmetic operators
+=====================
++
+-
+/
+*
+**
+%
+--
+++
+
++=
+-=
+*=
+/=
+
+Operators
+===========
+==  loose eqaulity operator : performs type coeresion when we try to compare values 
+=== strict equality operator
+!= not equal
+!== not equal to strict eqaulity operator 
+<
+>
+<=
+>=
